@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "_id": "d157e95112b4c8e5035060b6",
+      "id": "d157e95112b4c8e5035060b6",
+      "username": "victor",
+      "email": "victor@example.com",
+      "password": "$2b$10$t/C014JV.byAWbahhBZQ3uORoAQpN6ZKHKZIJ5O76ARTgoWaENppm",
+      "role": "user",
+      "createdAt": "2026-11-26T03:05:20.130Z"
+    },
+    {
+      "_id": "d45df98d52e56b2ab5f9ee2a",
+      "id": "d45df98d52e56b2ab5f9ee2a",
+      "username": "adminUser",
+      "email": "admin@example.com",
+      "password": "$2b$10$yyItlV5hkDLMyvSGt/sEhunNK5bQn4nDAhHFgeXPzAH3T3teJX6ya",
+      "role": "admin",
+      "createdAt": "2026-11-26T03:05:20.278Z"
+    }
+  ],
+  "notes": [
+    {
+      "_id": "312ec08463b9a3da6f4d822c",
+      "title": "My First Note (Updated)",
+      "content": "This note has been updated successfully.",
+      "owner": "d157e95112b4c8e5035060b6",
+      "createdAt": "2026-11-26T03:05:20.209Z",
+      "updatedAt": "2026-11-26T03:05:20.214Z"
+    },
+    {
+      "_id": "4a6c76b738ebc64968d84397",
+      "title": "My Second Note",
+      "content": "This is my second note of web dev -III",
+      "owner": "d157e95112b4c8e5035060b6",
+      "createdAt": "2026-11-26T03:05:20.210Z",
+      "updatedAt": "2026-11-26T03:05:20.210Z"
+    }
+  ]
+}
